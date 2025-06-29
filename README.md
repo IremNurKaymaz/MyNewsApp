@@ -12,17 +12,6 @@
 * 🌐 Real-time updates via News API
 * 📱 Modern UI optimized for Android devices
 
----
-
-### 📸 Screenshots
-
-| Home                          | Article Details                     | Favorites                               |
-| ----------------------------- | ----------------------------------- | --------------------------------------- |
-| ![home](screenshots/home.png) | ![details](screenshots/details.png) | ![favorites](screenshots/favorites.png) |
-
-> *(Add your own screenshots in the `/screenshots` directory)*
-
----
 
 ### ⚙️ Getting Started
 
